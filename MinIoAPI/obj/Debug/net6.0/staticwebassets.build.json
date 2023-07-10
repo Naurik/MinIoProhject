@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pH4uX1fJbIdSBuWL+HyJAAPwIEmF3LPYikMBBWhLDGM=",
+  "Source": "MinIoClient",
+  "BasePath": "_content/MinIoClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
