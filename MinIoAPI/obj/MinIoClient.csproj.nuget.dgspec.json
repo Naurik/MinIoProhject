@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ПРОЕКТЫ\\MinIoAPI\\MinIoAPI\\MinIoClient.csproj": {}
+    "C:\\Users\\Naurik\\Desktop\\PROJECTS\\MinIo\\MinIoAPI\\MinIoClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ПРОЕКТЫ\\MinIoAPI\\MinIoAPI\\MinIoClient.csproj": {
+    "C:\\Users\\Naurik\\Desktop\\PROJECTS\\MinIo\\MinIoAPI\\MinIoClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ПРОЕКТЫ\\MinIoAPI\\MinIoAPI\\MinIoClient.csproj",
+        "projectUniqueName": "C:\\Users\\Naurik\\Desktop\\PROJECTS\\MinIo\\MinIoAPI\\MinIoClient.csproj",
         "projectName": "MinIoClient",
-        "projectPath": "C:\\Users\\User\\Desktop\\ПРОЕКТЫ\\MinIoAPI\\MinIoAPI\\MinIoClient.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ПРОЕКТЫ\\MinIoAPI\\MinIoAPI\\obj\\",
+        "projectPath": "C:\\Users\\Naurik\\Desktop\\PROJECTS\\MinIo\\MinIoAPI\\MinIoClient.csproj",
+        "packagesPath": "C:\\Users\\Naurik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naurik\\Desktop\\PROJECTS\\MinIo\\MinIoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Naurik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
